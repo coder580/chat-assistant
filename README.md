@@ -1,4 +1,5 @@
 # chat-assistant
-uses html meta tags to provide assistance with calculations and other things 
-example: https://eschilli.com/
+uses the title and description tags of a website to provide assistance based on url inputs, all without leaving the chat
+
+<br >example: https://eschilli.com/
 
